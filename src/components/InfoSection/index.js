@@ -33,7 +33,6 @@ const InfoSection = ({
 }) => {
   return (
     <>
-      {/* id={id} */}
       <InfoContainer lightBg={lightBg} id={id}>
         <InfoWrapper>
           <InfoRow imgStart={imgStart}>
